@@ -1,0 +1,19 @@
+p{
+color:grey;
+font-size:25px;
+}
+.1{
+display:inline;
+}
+h1{
+	font-stretch:center;
+	font-size:60px;
+	font-family:bold;
+}
+
+marquee{
+	border-style:dotted;
+	border-color:red;
+	border-width:3px;
+	
+}
